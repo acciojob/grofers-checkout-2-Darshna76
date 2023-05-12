@@ -1,4 +1,4 @@
-//your code here
+
  const table = document.querySelector('table');
  const lastRow = document.createElement('tr');
  const prices = document.querySelectorAll('[data-ns-test=price]');
